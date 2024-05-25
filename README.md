@@ -1,4 +1,3 @@
-# python_assisnment
 # Assignment 1
 # Student id generation and percentage calculation
 ## Note:- This program will take input of number of subjects, marks obtained in that subject ,total marks for that subject , mobile number and name as input from the student . Then it will calculate percentages for that student and assign the roll number for him and then print the output on the text file present on the given path.
