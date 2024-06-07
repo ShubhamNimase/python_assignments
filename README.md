@@ -21,5 +21,7 @@
    ![User class view example](https://github.com/ShubhamNimase/python_assignments/assets/155907618/e746eff6-3e57-4e90-a193-4b1fcbdb5dda)
 
 # Assignment 3
-- This part is based on performing operations on dataset by using 'padas' library which is a library in python used to handle dataframes.
-- Here i have used superstore dataset to showcase data filtering techniques which can be easily performed by using pandas library and which includes sorting and filtering the dataframe by modifying the columns which includes data in the datetime format such as weekdays, months and years.
+This part is based on performing operations on dataset by using 'padas' library which is a library in python used to handle dataframes.
+</p>
+Here i have used superstore dataset to showcase data filtering techniques which can be easily performed by using pandas library and which includes sorting and filtering the dataframe by modifying the columns which includes data in the datetime format such as weekdays, months and years.
+
